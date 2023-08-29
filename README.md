@@ -2,6 +2,8 @@
 ## Dataset:
 The GTZAN dataset is the most-used public dataset for evaluation in machine listening research for music genre recognition (MGR). The files were collected in 2000-2001 from a variety of sources including personal CDs, radio, and microphone recordings, in order to represent a variety of recording conditions.<br />
 link:  https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification<br />
+## Flowchart
+![image](https://github.com/utkarshpratapshahi/Music_Genre_Classification/blob/main/Flowchart.png)
 ## Feature Extraction:
 The first step for this project would be to extract features and components from the audio
 files. It includes identifying the linguistic content and discarding noise.
